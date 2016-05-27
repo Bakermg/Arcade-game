@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+#score {
+	color: green;
+	clear: left;
+	text-align: left;
+	font-size: -webkit-xxx-large;
+}
+
+#score-number {
+	padding-left: 100px;
+}
